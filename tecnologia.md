@@ -14,3 +14,5 @@ y a mi no me gusta linux
 
 
 me siento muy enferma mientras hago esta practica, ojala si me tomo unas pastillas mejore la cosa 
+
+voy a agregar esta linea para trabajo 
