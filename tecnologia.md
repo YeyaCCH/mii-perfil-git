@@ -11,3 +11,6 @@ Porque permite empaquetar aplicaciones con sus dependencias para desplegarlas en
 ¿Qué necesito aprender primero?
 Fundamentos de Linux, uso de la terminal de comandos y conceptos básicos de redes e imágenes.
 y a mi no me gusta linux 
+
+
+me siento muy enferma mientras hago esta practica, ojala si me tomo unas pastillas mejore la cosa 
